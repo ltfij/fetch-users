@@ -15,6 +15,6 @@ Default credentials are: <br>
 Email Address : superadmin@example.com <br>
 Password : password
 
-![image](https://github.com/ltfij/product-dashboard/assets/11470019/dc055532-c5d4-4e36-81d8-91af7c69fe93)
+![image](https://github.com/ltfij/fetch-users/assets/11470019/9bcf5520-cbb6-4d2d-aacc-82ad03380c27)
 
-![image](https://github.com/ltfij/product-dashboard/assets/11470019/79b4932c-c5cc-4013-8a3d-eb04e0e912e1)
+![image](https://github.com/ltfij/fetch-users/assets/11470019/c5608f4c-fa15-42ad-b377-2f394465220e)
